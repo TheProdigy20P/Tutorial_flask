@@ -1,6 +1,7 @@
 Create a directory where the project will run
 cd into that directory.
-then run --> python3 -m venv venv # The second venv is the name of the virtualenvironment  ### would not work got this error
+then run
+    python3 -m venv venv # The second venv is the name of the virtualenvironment  ### would not work got this error
 
 ###
 The virtual environment was not created successfully because ensurepip is not
@@ -19,11 +20,11 @@ Running that command with SUDO fixed it.
 
 Next activate the virtual environment.
 
-   venv/bin/activate
+    venv/bin/activate
 
 Next install flask in your new venv
 
-   pip install flask
+    pip install flask
 
 
 

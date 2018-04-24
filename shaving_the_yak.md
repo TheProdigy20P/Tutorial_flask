@@ -26,5 +26,3 @@ Next install flask in your new venv
     pip install flask
 
 This is it for shaving the Yak. Let's work on our Hello World now.
-
-

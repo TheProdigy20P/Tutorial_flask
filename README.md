@@ -15,4 +15,4 @@ CMD ran:
 
 Then I added the recommended rules for python found at https://github.com/github/gitignore/blob/master/Python.gitignore to the ~/gitignore_global file.
 
-Starting Chapter 2
+## Starting Chapter 2

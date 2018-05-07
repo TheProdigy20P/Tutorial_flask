@@ -31,3 +31,7 @@ environment variable.
     export FLASK_APP=microblog.py
 
 Stopped @ Template Inheritance
+
+Added this alias to my .bash_aliases
+
+    alias venv="source venv/bin/activate;export FLASK_APP=microblog.py;flask run"

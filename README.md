@@ -35,3 +35,7 @@ Stopped @ Template Inheritance
 Added this alias to my .bash_aliases
 
     alias venv="source venv/bin/activate;export FLASK_APP=microblog.py;flask run"
+
+Chapter 2 Done!
+
+## Starting Chapter 3 Web Forms

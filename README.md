@@ -39,3 +39,11 @@ Added this alias to my .bash_aliases
 Chapter 2 Done!
 
 ## Starting Chapter 3 Web Forms
+
+2018-05-10
+
+Install the flask-wtf python packages that will be used to handle web Forms
+
+in your venv setup run:
+
+    pip install flask-wtf

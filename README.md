@@ -51,3 +51,25 @@ in your venv setup run:
 Chapter 3 Done!
 
 ## starting Chapter 4 Database
+
+2018-05-11
+
+Flask makes no decision about which database to use. Instead you chose which
+one you want and use Flask extension to use it.
+
+We will use Flas-SQLAlchemy SQLAlchemy is a ORM Object Relational Mapper. Meaning
+I can still use class and list in Python and they will be transformed into SQL
+statement by the ORM. SQLAlchemy is an ORM for many Reltional databases.
+
+Install Flas-SQLAlchemy in my venv.
+
+    pip install flask-sqlalchemy
+
+Part of this tutorial Miguel want us to also use is Flask-Migrate extension it
+allow to easily migrate and manage data lets see if its any good.
+
+    pip install flask-Migrate
+
+Next add config items to the config file.
+
+Stopped at: The Flask-SQLAlchemy extension takes the location of the application's database from the 

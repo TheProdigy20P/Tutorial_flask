@@ -72,4 +72,5 @@ allow to easily migrate and manage data lets see if its any good.
 
 Next add config items to the config file.
 
-Stopped at: The Flask-SQLAlchemy extension takes the location of the application's database from the 
+Stopped at: The Flask-SQLAlchemy extension takes the location of the application's
+database from the

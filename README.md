@@ -82,3 +82,6 @@ The flask-Migrate extension works well. Seems you cant remove column though.
 Chapter 4 Done.
 
 Next Time Chapter 5
+
+## Chapter 5 Users Logins
+ 
